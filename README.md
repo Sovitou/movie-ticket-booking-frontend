@@ -1,3 +1,4 @@
+```
 /src
 |-- assets
 |   |-- images
@@ -55,3 +56,5 @@
 |
 |-- App.js                // Main component with routing
 |-- index.js              // Entry point of the React app
+
+```
